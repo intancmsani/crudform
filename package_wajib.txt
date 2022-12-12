@@ -1,0 +1,22 @@
+PAKET PENTING
+1. https://formkit.com/
+2. https://router.vuejs.org/
+3. https://pinia.vuejs.org/
+4. https://tailwindcss.com/docs/guides/nuxtjs
+5. https://auth.nuxtjs.org/
+6. https://github.com/nuxt-modules/icon
+
+TAMBAHAN FOLDER DI NUXT3
+- assets
+- components
+- layouts
+- pages
+- server
+
+YOUTUBE KURSUS
+https://www.youtube.com/watch?v=thHPEotZVdA&list=PL4cUxeGkcC9haQlqdCQyYmL_27TesCGPC&index=2
+https://www.youtube.com/watch?v=A24aKCQ-rf4
+https://www.youtube.com/watch?v=1uWHDdcDZWw
+
+GITHUB SAMPEL
+https://github.com/BayBreezy/nuxt-3-server-api
